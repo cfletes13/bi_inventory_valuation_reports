@@ -1,0 +1,14 @@
+     
+        'version': '11.0.0.7'
+         A. CHANGES OF CALCULATION IN RECIVED , OPENING , ENDING AND VALUATION COLS IN PDF/XLS REPORTS,
+
+	3.'version': '11.0.0.8',
+
+	    a. changed full method get_line and get_data in pdf and xls report .
+	    b. sale qty : counts only delivered qty .
+
+	4. v =  11.0.1.0
+		a.improved module to support avarage costing
+
+=> 11.0.1.2 : Improved index module version link.
+
